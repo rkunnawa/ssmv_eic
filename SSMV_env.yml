@@ -1,0 +1,14 @@
+name: ssmv_eic
+channels:
+  - conda-forge
+dependencies:
+  - pythia8
+  - pandas
+  - matplotlib
+  - numpy
+  - scipy
+  - keras
+  - tensorflow
+  - root
+  - jupyter_core
+  - uproot
