@@ -7,8 +7,4 @@ dependencies:
   - matplotlib
   - numpy
   - scipy
-  - keras
-  - tensorflow
-  - root
   - jupyter_core
-  - uproot
